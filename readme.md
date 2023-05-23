@@ -2,6 +2,8 @@
 
 Here is the translation in Merlin 32 syntax of the "Mouse Graphics Toolkit" demo program. This library greatly facilitated the writing of programs with the "Desktop" look, as on Macintosh and GS/OS. 
 
+The original source file is TK.DEMO.original.s; the file in Merlin 32 format is tkdemo.s.
+
 ## Use
 This archive contains a ProDOS disk image (tkdemo.po) to be used it your favourite Apple II emulator or your Apple II.
 * Start your Apple II with the "tkdemo.po" disk.
