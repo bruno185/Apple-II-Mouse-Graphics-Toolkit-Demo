@@ -1,6 +1,6 @@
 # Apple II : Mouse Graphics Toolkit Demo in Merlin 32 syntax
 
-Here is the translation in Merlin 32 syntax of the "Mouse Graphics Toolkit" demo program. This library greatly facilitated the writing of programs with the "Desktop" look, as on Macintosh and GS/OS. 
+Here is the translation in Merlin 32 syntax of the "Mouse Graphics Toolkit" demo program. This very good library greatly facilitated the writing of double hires Apple II programs with the "Desktop" look, as on Macintosh and GS/OS. 
 
 The original source file is TK.DEMO.original.s; the file in Merlin 32 format is tkdemo.s.
 
